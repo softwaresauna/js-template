@@ -15,6 +15,7 @@ Take the files and use them to start your own Javascript project.
 
 ### Using Yarn
 
-- build: `yarn`
+- gather dependencies: `yarn`
+- build: `yarn build`
 - test: `yarn test`
 - start: `yarn start`
